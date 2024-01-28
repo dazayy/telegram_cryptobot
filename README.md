@@ -2,9 +2,9 @@
 
 ## Список библиотек и их версий: 
 aiofiles==23.2.1
-aiogram==3.3.0        
-aiohttp==3.9.1        
-aiosignal==1.3.1      
+aiogram==3.3.0
+aiohttp==3.9.1
+aiosignal==1.3.1
 annotated-types==0.6.0
 attrs==23.2.0
 certifi==2023.11.17   
