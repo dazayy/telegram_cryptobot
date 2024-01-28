@@ -1,0 +1,2 @@
+BOT_TOKEN = "BOT KEY"
+DATABASE_NAM = "name.bd"
